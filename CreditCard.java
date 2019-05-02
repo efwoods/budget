@@ -17,4 +17,6 @@ public class CreditCard extends Debt{
 		this.availableToSpend = availableToSpend;
 		this.dueDate = dueDate;
 	} 
+
+	// need methods to update CC
 }
