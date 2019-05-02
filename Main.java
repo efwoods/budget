@@ -1,4 +1,4 @@
-0.0//package Woods;
+//package Woods;
 
 //import Woods.Budget;
 public class Main{
